@@ -10,9 +10,9 @@
 
 :root{   /*definição das variaveis que serao utilizadas nos estilos*/
     --branco:#ffffff;  /*definição da cor da variavel --braco que e usada nos diversas partes de estilos do css*/
-    --cor-de-fundo:#EBECEE;  /*definição da cor da variavel --cor-de-fundo que e usada nos diversas partes de estilos do css*/
-    --laranja: #eb9b00;  /*definição da cor da variavel --laranja que e usada nos diversas partes de estilos do css*/
-    --azul-degrade:linear-gradient(97.54deg, #002f52 35.49%, #326589 165.37%);  /*definição da cor e do gradiente utilizado na variavel --azul-degrade que e usada nos diversas partes de estilos do css*/
+    --cor-de-fundo:#ffffff;  /*definição da cor da variavel --cor-de-fundo que e usada nos diversas partes de estilos do css*/
+    --laranja: #9b1919;  /*definição da cor da variavel --laranja que e usada nos diversas partes de estilos do css*/
+    --azul-degrade:linear-gradient(97.54deg, #171717 35.49%, #6fc5ff 165.37%);  /*definição da cor e do gradiente utilizado na variavel --azul-degrade que e usada nos diversas partes de estilos do css*/
     --fonte-principal: "Poppins";  /*definição da fonte utilizada na variavel --fonte-principal que e usada nos diversas partes de estilos do css*/
     --azul: #002F52;  /*definição da cor da variavel --azul que e usada nos diversas partes de estilos do css*/
 }
